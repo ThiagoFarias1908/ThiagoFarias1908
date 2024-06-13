@@ -1,6 +1,6 @@
 ### Hi there, I'm Thiago 👋
 
-## Analista de Dados
+## Analista de Dados e Business Intelligence
 
 - 🔭 Atualmente estou trabalhando com Análise de Dados
 - 🏠 Atualmente estou trabalhando e morando no Brasil
