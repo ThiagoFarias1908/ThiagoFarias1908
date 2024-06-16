@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a4469&height=120&section=header"/>
+
 ### Hi there, I'm Thiago 👋
 
 ## Analista de Dados e Business Intelligence
