@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a4469&height=120&section=header"/>
 
-### Hi there, I'm Thiago 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0a4469&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Thiago+👋)](https://git.io/typing-svg)
 
 ## Analista de Dados e Business Intelligence
 
@@ -29,3 +29,5 @@ Redes Sociais:
     <img height="40" width="40" src="https://github.com/thiagofarias1908/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
   </a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0a4469&height=120&section=footer"/>
