@@ -30,10 +30,3 @@ Sou um profissional de Dados focado em traduzir bases de dados complexas em inte
 | **[Dashboard de Vendas BikeStores](https://www.linkedin.com/pulse/dashboard-de-vendas-thiago-farias-louren%C3%A7o-apduf/)** | Desenvolvimento ponta a ponta (Back-end, Modelagem Star Schema e DAX) de um painel de vendas com foco em design UX/UI. | `Power BI` `SQL` | [📖 Ler Estudo de Caso](https://www.linkedin.com/pulse/dashboard-de-vendas-thiago-farias-louren%C3%A7o-apduf/) |
 
 ---
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ThiagoFarias1908&show_icons=true&theme=transparent&hide_border=true&title_color=081427&icon_color=081427&text_color=333333&v=1" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFarias1908&layout=compact&theme=transparent&hide_border=true&title_color=081427&text_color=333333&v=1" alt="Linguagens Mais Utilizadas" />
-</div>
