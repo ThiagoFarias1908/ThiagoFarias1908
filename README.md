@@ -34,6 +34,6 @@ Sou um profissional de Dados focado em traduzir bases de dados complexas em inte
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoFarias1908&show_icons=true&theme=transparent&hide_border=true&title_color=081427&icon_color=081427&text_color=333333" alt="Estatísticas do GitHub" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFarias1908&layout=compact&theme=transparent&hide_border=true&title_color=081427&text_color=333333" alt="Linguagens Mais Utilizadas" width="48%">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ThiagoFarias1908&show_icons=true&theme=transparent&hide_border=true&title_color=081427&icon_color=081427&text_color=333333&v=1" alt="Estatísticas do GitHub" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoFarias1908&layout=compact&theme=transparent&hide_border=true&title_color=081427&text_color=333333&v=1" alt="Linguagens Mais Utilizadas" />
 </div>
